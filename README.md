@@ -1,5 +1,5 @@
 ### Lucas " Wypalacz " Eichner
-
+Studying Computer Science
 PHP and FiveM Programmer 
 
 [![Twitter Badge](https://img.shields.io/badge/-@eichnner-00D69B?style=flat-square&labelColor=00DF91&logo=twitter&logoColor=white&link=https://twitter.com/eichnner)](https://twitter.com/eichnner) 
