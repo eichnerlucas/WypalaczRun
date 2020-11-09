@@ -7,4 +7,4 @@ PHP and FiveM Programmer
 [![Instagram Badge](https://img.shields.io/badge/-Eichner-00D69B?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/eichnner)](https://instagram.com/eichnner) 
 [![Gmail Badge](https://img.shields.io/badge/-wypalaczrun@gmail.com-00D69B?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wypalaczrun@gmail.com)](mailto:wypalaczrun@gmail.com)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wypalaczrun&show_icons=true&theme=radical)
+![Wypalacz's github stats](https://github-readme-stats.vercel.app/api?username=wypalaczrun&show_icons=true&theme=dark)
