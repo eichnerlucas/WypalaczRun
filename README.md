@@ -6,15 +6,15 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>PHP, Lua, JS e Python.</strong>
+   Linguagens: <strong>PHP, Lua, JS e Python.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Visual Studio, Visual Studio Code.</strong>
+   Ferramentas: <strong>Visual Studio, Visual Studio Code.</strong>
 </p>
 
 <p align="left">
-  💌 Caso você queria entrar em contato comigo, use um dos meios abaixo: ⤵️
+   Caso você queria entrar em contato comigo, use um dos meios abaixo: ⤵️
 </p>
 
 <p align="left">
