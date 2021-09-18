@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
-  Olá, meu nome é <b>Lucas Azevedo</b> e sou um <b>Back-end Developer</b>.
+  Olá, meu nome é <b>Lucas Azevedo</b> e sou um <b>Desenvolvedor Back-end</b>.
   Atualmente estudo Ciência da Computação.
 </p>
 
